@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Achievements on Nandu Prasad</title>
+    <link>https://nandu26m.github.io/achievements/</link>
+    <description>Recent content in Achievements on Nandu Prasad</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 08 Oct 2020 10:58:08 -0400</lastBuildDate><atom:link href="https://nandu26m.github.io/achievements/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Certificates and Badges</title>
+      <link>https://nandu26m.github.io/achievements/certificates/</link>
+      <pubDate>Thu, 08 Oct 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://nandu26m.github.io/achievements/certificates/</guid>
+      <description>HackerRank Certification for Python
+RASA Certification
+LinkedIn Certification for Data Analytics
+LinkedIn Certification for Power BI Essential Training
+Big Data Foundations Certificate
+Data Science Methodology Certificate
+Hadoop Fundamentals Certificate
+Data Analysis with Python Certificate
+Data Science Tools Certificate
+Data Visualization using Python Certificate
+Deep Learning Fundamentals Certificate
+Deep Learning with TensorFlow Certificate
+Introduction to Data Science Certificate
+Applied Data Science with Python - Level 2
+Data Science Foundations - Level 1</description>
+    </item>
+    
+  </channel>
+</rss>

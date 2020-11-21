@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science Portfolio on Nandu Prasad</title>
+    <link>https://nandu26m.github.io/</link>
+    <description>Recent content in Data Science Portfolio on Nandu Prasad</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 12 Nov 2020 11:00:59 -0400</lastBuildDate><atom:link href="https://nandu26m.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Spam SMS Classification - Deployment</title>
+      <link>https://nandu26m.github.io/post/project-11/</link>
+      <pubDate>Thu, 12 Nov 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://nandu26m.github.io/post/project-11/</guid>
+      <description>• This project is to built and deploy a Machine Learning Web App created with Flask on Heroku platform.
+• If you want to view the deployed model, click here
+• If you are searching for Code, Algorithms used and Accuracy of the model.
+Link to Github repository</description>
+    </item>
+    
+    <item>
+      <title>Diabetes Prediction - Deployment</title>
+      <link>https://nandu26m.github.io/post/project-12/</link>
+      <pubDate>Tue, 10 Nov 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://nandu26m.github.io/post/project-12/</guid>
+      <description>• This project is to built and deploy a Machine Learning Web App created with Flask on Heroku platform.
+• If you want to view the deployed model, click here
+• If you are searching for Code, Algorithms used and Accuracy of the model.
+Link to Github repository</description>
+    </item>
+    
+    <item>
+      <title>My Drawings</title>
+      <link>https://nandu26m.github.io/my-drawings/drawings/</link>
+      <pubDate>Sun, 08 Nov 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://nandu26m.github.io/my-drawings/drawings/</guid>
+      <description>Click for more Drawings:</description>
+    </item>
+    
+    <item>
+      <title>Alzheimers Disease Detection Using Deep Learning</title>
+      <link>https://nandu26m.github.io/post/project-1/</link>
+      <pubDate>Sun, 01 Nov 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://nandu26m.github.io/post/project-1/</guid>
+      <description>Alzheimer’s is a neurological disorder. The upcoming reports suggest it as the sixth leading cause of death. Normally MRI images are analysed to identify whether the person has Alzheimer’s or not. This method can be time consuming and might even lead to misdiagnosis. Hence we deployed Deep Learning for better accuracy in prediction.
+  Abstract This project aims to detect Alzheimer&amp;rsquo;s Disease from the MRI scans ( in .nii extension) given as input.</description>
+    </item>
+    
+    <item>
+      <title>Stock Market Prediction</title>
+      <link>https://nandu26m.github.io/post/project-2/</link>
+      <pubDate>Sat, 10 Oct 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://nandu26m.github.io/post/project-2/</guid>
+      <description>Stock market prediction with Linear Regression and the data collected from Quandl library.
+  Abstract Market prediction offers great profit avenues and is a fundamental stimulus for most researchers in this area. To predict the market most researchers use either technical or fundamental analysis. Technical analysis focuses on analyzing the direction of prices to predict future prices, while fundamental analysis depends on analyzing unstructured textual information like financial news and earning reports.</description>
+    </item>
+    
+    <item>
+      <title>The impact of COVID-19 — data visualization using Plotly and Matplotlib.</title>
+      <link>https://nandu26m.github.io/post/project-3/</link>
+      <pubDate>Thu, 08 Oct 2020 11:13:32 -0400</pubDate>
+      
+      <guid>https://nandu26m.github.io/post/project-3/</guid>
+      <description>Derive interesting data insights on covid-19 and visualize the outbreak of coronavirus
+The global impact of COVID-19 To understand the impact of the virus on a geographical landscape, I used the choropleth plot from Plotly. The code for this interactive plot is found in github repo which will give a more clear interactive visualization.
+Link to Github repository</description>
+    </item>
+    
+    <item>
+      <title>My Certificates and Badges</title>
+      <link>https://nandu26m.github.io/achievements/certificates/</link>
+      <pubDate>Thu, 08 Oct 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://nandu26m.github.io/achievements/certificates/</guid>
+      <description>HackerRank Certification for Python
+RASA Certification
+LinkedIn Certification for Data Analytics
+LinkedIn Certification for Power BI Essential Training
+Big Data Foundations Certificate
+Data Science Methodology Certificate
+Hadoop Fundamentals Certificate
+Data Analysis with Python Certificate
+Data Science Tools Certificate
+Data Visualization using Python Certificate
+Deep Learning Fundamentals Certificate
+Deep Learning with TensorFlow Certificate
+Introduction to Data Science Certificate
+Applied Data Science with Python - Level 2
+Data Science Foundations - Level 1</description>
+    </item>
+    
+    <item>
+      <title>Breast Cancer Data Analysis</title>
+      <link>https://nandu26m.github.io/post/project-5/</link>
+      <pubDate>Wed, 07 Oct 2020 11:15:58 -0400</pubDate>
+      
+      <guid>https://nandu26m.github.io/post/project-5/</guid>
+      <description>About the Dataset: The Breast Cancer Diagnostic data is available on the UCI Machine Learning Repository. This database is also available through the UW CS ftp server.
+Features are computed from a digitized image of a fine needle aspirate (FNA) of a breast mass. They describe characteristics of the cell nuclei present in the image. n the 3-dimensional space is that described in: [K. P. Bennett and O. L. Mangasarian: &amp;ldquo;Robust Linear Programming Discrimination of Two Linearly Inseparable Sets&amp;rdquo;, Optimization Methods and Software 1, 1992, 23-34].</description>
+    </item>
+    
+    <item>
+      <title>Heart Failure Prediction</title>
+      <link>https://nandu26m.github.io/post/project-4/</link>
+      <pubDate>Sun, 04 Oct 2020 11:14:48 -0400</pubDate>
+      
+      <guid>https://nandu26m.github.io/post/project-4/</guid>
+      <description>An effective model to predict mortality caused by heart failure. In this project used Machine Learning Algorithm SVM and Random Forest Classifier.  Introduction Heart diseases is a term covering any disorder of the heart. Heart diseases have become a major concern to deal with as studies show that the number of deaths due to heart diseases have increased significantly over the past few decades in India, in fact it has become the leading cause of death in India.</description>
+    </item>
+    
+    <item>
+      <title>Customer Segmentation with Machine Learning</title>
+      <link>https://nandu26m.github.io/post/project-7/</link>
+      <pubDate>Tue, 08 Sep 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://nandu26m.github.io/post/project-7/</guid>
+      <description>When you perform customer segmentation, you find similar characteristics in each customer&amp;rsquo;s behaviour and needs. Then, those are generalized into groups to satisfy demands with various strategies. Moreover, those strategies can be an input of the
+ Targeted marketing activities to specific groups Launch of features aligning with the customer demand Development of the product roadmap  There are different products/solutions available in the market from packaged software to CRM products.</description>
+    </item>
+    
+    <item>
+      <title>Classify Song Genres from Audio Data</title>
+      <link>https://nandu26m.github.io/post/project-8/</link>
+      <pubDate>Fri, 10 Jul 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://nandu26m.github.io/post/project-8/</guid>
+      <description>Mini Project 
+Project Description Using a dataset comprised of songs of two music genres (Hip-Hop and Rock) which are based entirely on track information derived from Echonest (now part of Spotify) a classifier is trained in order to distinguish between this two genres.
+First data exploration and visualization is carried out using pandas and seaborn packages to find obvious trends and patterns in the data.
+Next predictions are made using scikit-learn package to predict whether it is possible to correctly classify a song&amp;rsquo;s genre based on its features(danceability, energy, acousticness, tempo, etc).</description>
+    </item>
+    
+    <item>
+      <title>Movie Genre Prediction - Deployment</title>
+      <link>https://nandu26m.github.io/post/project-10/</link>
+      <pubDate>Fri, 10 Jul 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://nandu26m.github.io/post/project-10/</guid>
+      <description>• This project is to built and deploy a Machine Learning Web App created with Flask on Heroku platform.
+• If you want to view the deployed model, click here
+• If you are searching for Code, Algorithms used and Accuracy of the model.
+Link to Github repository</description>
+    </item>
+    
+    <item>
+      <title>Restaurant Review&#39;s Sentiment Analysis</title>
+      <link>https://nandu26m.github.io/post/project-9/</link>
+      <pubDate>Fri, 10 Jul 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://nandu26m.github.io/post/project-9/</guid>
+      <description>• This project is to built and deploy a Machine Learning Web App created with Flask on Heroku platform.
+• If you want to view the deployed model, click here
+• If you are searching for Code, Algorithms used and Accuracy of the model.
+Link to Github repository</description>
+    </item>
+    
+    <item>
+      <title>Automatic hopper string maker</title>
+      <link>https://nandu26m.github.io/post/project-6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nandu26m.github.io/post/project-6/</guid>
+      <description>This project aims to develop a specially designed mechine for automatic production of the traditional food called Hopper Strings. The whole production and related processes are controlled using a PLC.</description>
+    </item>
+    
+  </channel>
+</rss>
